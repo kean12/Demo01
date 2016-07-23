@@ -201,5 +201,5 @@
 			<url>http://repo.jenkins-ci.org/public/</url>
 		</pluginRepository>
 	</pluginRepositories>
-	<packaging>hpi11</packaging>
+	<packaging>hpi12</packaging>
 </project>
